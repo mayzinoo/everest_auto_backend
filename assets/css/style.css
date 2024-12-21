@@ -1,0 +1,610 @@
+.no_padding{
+  padding: 0px !important;
+}
+.no_leftpadding{
+  padding-left: 0px !important;
+}
+.no_rightpadding{
+  padding-right: 0px !important;
+}
+.sm_padding{
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.sm_toppadding{
+  padding-top: 10px !important;
+}
+.smm_toppadding{
+  padding-top: 30px !important;
+}
+.md_padding{
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+}
+.md_toppadding{
+  padding-top: 80px !important;
+}
+.lg_padding{
+  padding-top: 120px !important;
+  padding-bottom: 120px !important;
+}
+.sm_sidepadding{
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+.md_sidepadding{
+  padding-left: 80px !important;
+  padding-right: 80px !important;
+}
+.md_rightsidepadding{
+  padding-right: 80px !important;
+}
+.sm_rightsidepadding{
+  padding-right: 50px !important;
+}
+.xs_rightsidepadding{
+  padding-right: 30px !important;
+}
+.lg_sidepadding{
+  padding-left: 120px !important;
+  padding-right: 120px !important;
+}
+.sm_leftsidepadding{
+  padding-left: 20px !important;
+}
+.md_leftsidepadding{
+  padding-left: 80px !important;
+}
+.lg_leftsidepadding{
+  padding-left: 150px !important;
+}
+.sm_bottompadding{
+  padding-bottom: 10px !important;
+}
+.md_bottompadding{
+  padding-bottom: 30px !important;
+}
+.xl_bottompadding{
+  padding-bottom: 210px !important;
+}
+.sm_topmargin{
+  margin-top: 10px !important;
+}
+.md_topmargin{
+  margin-top: 30px !important;
+}
+/**/
+
+.right{
+  float: right;
+}
+.txtright{
+  text-align: right !important;
+}
+.mdl-card__title h1{
+  color: #00bcd4 !important;
+  float: left;
+}
+.mdl-data-table{
+  font-size: 14px !important;
+}
+
+.card-title {
+  float: left;  
+  margin: 0;
+  color: #900C12;
+  font-size: 21px;
+}
+.card-tools {
+  float: right;
+  margin-right: -.625rem;
+}
+.nav {
+  list-style: none;
+}
+.modal-backdrop{
+  position: inherit !important;
+}
+
+.modal-content{
+  margin-top: 78px;
+}
+.mdl-card__title{
+  display: initial !important;
+  padding: 10px 16px !important;
+}
+.mdl-data-table{
+  /*white-space: normal !important;*/
+}
+.modal-xl {
+  width: 1140px !important;
+}
+.box-content{
+  padding: 20px;
+  
+}
+.model-detail{
+  border-radius: 10px;
+  padding: 15px 45px;
+  background: #717173;
+}
+.model-detail2{
+  border-radius: 10px;
+  padding: 0px 15px 15px;
+  background: #717173;
+}
+.model-detail2 .nav-link{
+  padding: 0px !important;
+}
+.mini-title{
+  /*font-size: .875rem;*/
+  line-height: 1.25rem;
+  --tw-text-opacity: 1;
+  /*color: rgb(156 163 175/var(--tw-text-opacity));*/
+  color: #000 !important;
+}
+.vehiclephoto{
+  width: 257px;
+  height: auto;
+}
+.showgallery{
+  text-align: center !important;
+}
+.minicard_title{
+  background-color: #333;
+  display: flow-root;
+  padding: 10px 16px !important;
+  perspective-origin: 165px 56px;
+transform-origin: 165px 56px;
+box-sizing: border-box;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+.minicard_title span{
+  float: left !important;
+  display: flex;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  overflow: hidden;
+  transform-origin: 149px 48px;
+  margin: 0;
+}
+.cover-img{
+  width: 350px;
+  height: auto;
+}
+.galleryphoto{
+  width: 210px !important;
+height: 135px;
+}
+.pagegi {
+  text-align: center;
+  margin-top: 20px;
+}
+ul.pagegi li {
+  display: inline-block;
+  list-style: none;
+}
+.pagegi li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+ul.pagegi li a:hover, ul.pagegi li a.current {
+  color: #fff !important;
+  background-color: #ff4242;
+}
+ul.pagegi li a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 4px;
+  margin: 5px;
+  box-shadow: inset 0 5px 10px rgba(0, 0, 0, 0.1), 0 2px 5px rgba(0, 0, 0, 0.5);
+  transition: all 0.3s ease;
+}
+.current {
+  font-weight: bold;
+  text-decoration: underline !important;
+}
+.modal-body p{
+  color: #a6a3a3 !important;
+}
+.license-img
+{
+  width: 180px;
+  height: auto;
+}
+.formimg{
+  width: 120px;
+  height: auto;
+}
+#modal-new-vehicles .select2-container .select2-search--inline .select2-search__field{
+  margin-top: 3px !important;
+}
+#modal-new-vehicles .select2-container .select2-selection--single{
+  height: 34px !important;
+}
+#upload_vehicles h5{
+  margin-top: 0px !important;
+}
+.choosepackage,.choosepackage2{
+  /*background: #ddd;*/
+padding: 4px 12px 21px 12px;
+margin: 15px auto;
+border: 1px solid #ddd;
+box-shadow: 0 2px 3px 0px #777;
+}
+
+.chosepkg{
+  float: left;
+}
+.chosepkg-right{
+  float: right;
+  margin-top: -46px;
+  margin-bottom: -6px;
+  position: relative;
+}
+.chosepkg-right a{
+  color: #fff;
+  font-weight: bold;
+}
+.mdl-navigation__link{
+  /*line-height: 18px !important;*/
+}
+.editortxt
+{
+  color: #d04646 !important;
+  font-weight: bold;
+  font-size: 16px;
+}
+.admintxt{
+  color: #5cb85c !important;
+  font-weight: bold;
+  font-size: 16px;
+}
+.package,.package2{
+  display: flex;  
+}
+.pkginfo,.pkginfo2{
+  position: relative;
+  padding: 20px 1.25rem;
+  background: #00bcd4;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+  background-color: #00bcd4 !important;
+border-color: #00bcd4 !important;
+color: #fff !important;
+padding: 0 10px !important;
+margin-top: .31rem !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+  color: rgba(255,255,255,.7) !important;
+  float: right !important;
+  margin-left: 5px !important;
+  margin-right: -2px !important;
+}
+.input-group{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: 100%;
+}
+.input-group-append, 
+.input-group-prepend{
+  display: flex;
+}
+.input-group-text{
+  display: flex;
+  align-items: center;
+  padding: .375rem .75rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+.input-group > .custom-file, .input-group > .custom-select, .input-group > .form-control, .input-group > .form-control-plaintext{
+  position: relative;
+  flex: 1 1 0%;
+  min-width: 0;
+  margin-bottom: 0
+}
+.input-group > .custom-select:not(:last-child), .input-group > .form-control:not(:last-child){
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.invoicelist .btn-group-sm > .btn, .btn-xs{
+  font-size: 15px !important;
+}
+#vpkg .table-striped > tbody > tr:nth-of-type(2n+1){
+  background: none !important;
+}
+#vpkg .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th{
+  border-top: 0px !important;
+}
+#vpkg .table > thead > tr > th{
+  border-bottom: 0px !important;
+}
+.btn-group-xs > .btn, .btn-xs{
+  font-size: 15px !important;
+}
+.mdl-layout__drawer header{
+  font-size: 16px !important;
+}
+.cmylog{
+  width: 240px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 11px;
+}
+.mdl-layout--fixed-drawer > .mdl-layout__drawer header{
+  height: none !important;
+  background: none !important;
+}
+label.error{
+  font-weight: normal !important;
+color: #d93c3c;
+}
+a.mdl-navigation__link{
+  /*color: #ccc !important;*/
+}
+a.mdl-navigation__link:hover{
+  color: #00bcd4 !important;
+}
+.car_desc p{
+}
+.vehicle-photos{
+  width: 100%;
+  height: 150px;
+}
+.text-danger{
+  font-size: 11px !important;
+}
+#modal-paymentstatus .select2-container--default .select2-selection--single,
+#modal-approvestatus .select2-container--default .select2-selection--single
+{
+  height: 34px;
+  border: 1px solid #ccc !important;
+}
+.mybtn{
+  padding: 8px 28px;
+}
+.formtitle{
+  color: #00bcd4 !important;
+  font-weight: bold;
+}
+.saletxt{
+  color: #e5ec19 !important;
+}
+.bootstrap-timepicker-widget.dropdown-menu{
+  color: #000 !important;
+}
+#datetimepicker,#datetimepicker1,#datetimepicker2{
+  color: #000 !important;
+}
+.glyphicon{
+  left: -5px !important;
+}
+.typechx{
+  width: 20px;
+  height: 25px;
+}
+a:focus, a:hover{
+  text-decoration: none !important;
+}
+.right_quotesection .mdl-data-table{
+  border: 1px solid #606060;
+}
+.right_quotesection .mdl-data-table th{
+  text-align: center !important;
+}
+.form-control{
+  color: black !important;
+  border: 1px solid #aea9a9 !important;
+  font-size: 15px !important;
+}
+.form-control::placeholder{
+  color: #a6a0a0  !important;
+}
+label{
+  font-size: 15px !important;
+}
+
+/*change bg color and text*/
+.mdl-data-table{
+  background-color: #fff !important;
+}
+.mdl-data-table th{
+  color: #000 !important;
+}
+.mdl-layout__drawer{
+  background-color: #fff !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link{
+  color: #000 !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link .material-icons{
+  color: #900C12 !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link--current .material-icons, .mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover, .mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover .material-icons{
+  color: #E64027 !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link--current{
+  background-color: #E8DF89 !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover {
+  background-color: #E8DF89 !important;
+}
+.mdl-card__title{
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#630e15+0,e43b26+50,e5c741+100 */
+background: #630e15; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #630e15 0%, #e43b26 50%, #e5c741 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #630e15 0%,#e43b26 50%,#e5c741 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #630e15 0%,#e43b26 50%,#e5c741 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#630e15', endColorstr='#e5c741',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.label, .mdl-data-table{
+  color: #000 !important;
+}
+.mdl-card__title h1{
+  color: #fff !important;
+}
+.mdl-data-table tbody tr:hover {
+  background-color: rgba(232,223,137,0.6) !important;
+}
+.mdl-data-table__cell--non-numeric a{
+  color: #900C12 !important;
+}
+.mdl-data-table__cell--non-numeric a i{
+  color: #fff !important;
+}
+
+.mdl-layout__header{
+  background-color: #711317 !important;
+}
+.mdl-layout__header .mdl-layout__drawer-button{
+  color: #fff !important;
+}
+.mdl-card{
+  background: #fff !important;
+}
+.model-detail,.model-detail2{
+  background: #fbfafa !important;
+}
+.minicard_title {
+  background-color: #E8DF89;
+  color: #000 !important;
+}
+
+.formtitle{
+  color: #900C12 !important;
+}
+.mdl-layout__header-row .avatar-dropdown:hover, .mdl-layout__header-row .material-icons.mdl-badge:hover, .mdl-layout__header-row .mdl-button--icon:hover{
+  background:rgba(144,12,18,0.6) ;
+}
+.mdl-menu__outline,.color--light-blue{
+  background: #711317 !important;
+}
+/**/
+
+.search_regin{
+  width: 262px;
+}
+.search_regin2{
+  width: 353px;
+}
+.search_content,.search_btn{
+  float: left;
+}
+
+.nav-link.active{
+  background-color: #007bff !important;
+  color: #fff !important;
+}
+
+.nav-treeview > .nav-item {
+  padding-left: 15px;
+}
+
+.new-costdetail{
+  float: right;
+  margin-top: -45px;
+  margin-bottom: -6px;
+  position: relative;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+  line-height: 16px !important;
+}
+.galleryimg{
+  width: 200px;
+  height: auto;
+}
+.filedelete{
+  float: left;
+}
+.delete-file{
+  background: #dc3545;
+  color: #fff;
+  padding: 4px;
+  line-height: 11px;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 10px;
+  border-radius: 3px;
+  margin-left: 10px;
+}
+label{
+  font-size: 14px !important;
+}
+#loanproposal label,
+#hlbank label,
+#maybank label{
+  font-size: 14px !important;
+}
+table tr th{
+  font-size: 14px !important;
+}
+.bootstrap-timepicker-widget.dropdown-menu{
+  left: 173px !important;
+  top: 35px !important;
+}
+.bootstrap-timepicker-widget table td a {
+  color: #333 !important;
+}
+.mt-2 ul li a p{
+  font-size: 14px !important;
+}
+.costsheetreport .form-control{
+  height: calc(1.55rem + 2px) !important;
+  border: 1px dotted #aea9a9 !important;
+  padding: .188rem .75rem !important;
+}
+.cardno{
+ display: inline-block;
+}
+
+/*accordion css*/
+#exTab3 .nav-pills > li > a {
+    border-radius: .25rem;
+}
+
+#exTab3 .tab-content {
+  border: 1px solid #cdcdcd;
+  padding : 5px 15px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: #fff;
+    background-color: #007bff;
+}
+#exTab3 .nav > li > a {
+    position: relative;
+    display: block;
+    padding: 8px 25px;
+}
+.nav-link {
+  display: block;
+  padding: .5rem 1rem;
+}
+.card-header{
+  padding: 0.45rem 1.25rem !important;
+}
+.leasingtab .nav > li > a {
+    position: relative;
+    display: block;
+    padding: 8px 25px;
+    border-radius: 0.25rem;
+}
+.dropdown, .dropleft, .dropright, .dropup{
+    display: inline;
+}
+/*end*/
